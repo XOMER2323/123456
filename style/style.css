@@ -1,0 +1,205 @@
+div#base{
+      background:url(../pic/source.gif);
+      min-height:100%;
+    }
+.row{
+    position:relative;
+    top:50px;
+    width:100%;
+    margin:0 auto;
+   
+    }
+p.aatext{
+    color:black;
+    font-weight: bold;
+    font-size:3em;
+        
+    }
+#aatext{
+    color:black;
+    font-weight: bold;
+    font-size:2em;
+    margin-bottom:400px;
+    }
+.btnf{
+    min-width:100px;
+    height:50px;
+    width:120px;
+}
+body{
+     overflow-x:hidden;
+}
+div#moretext{
+      color:black;
+      position:relative;
+      text-align: center;
+      margin-top: 140px;
+      margin-left:auto;
+      margin-right: auto;
+}
+div.scbase{
+        width:100%;
+        min-height:80%;
+        background:white;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+		margin-bottom:250px;
+}
+h2.title{
+        margin-top:50px;
+        text-align: center;
+}
+div#scrow{
+        display:flex;
+        justify-content:space-around;
+        text-align: center;
+        margin-right:30px;
+         
+}
+p.hedsc{
+        font-weight:bold;
+        position:relative;
+        font-size: 2em;
+        margin-top:120px;
+        margin-bottom:20px;
+        text-align: center; 
+}
+button#butsc{
+        padding-top:15px; 
+        padding-bottom:15px;
+        box-sizing:border-box;
+        font-weight:lighter; 
+        font-size:1em;
+        margin-top:100px;
+}
+div#cardsc{
+        width:20%;
+        height:60%;
+        box-shadow: 0 0 20px rgba(0,0,0,0.5);
+        margin-top:10px;
+	padding-left:0px;
+	padding-right:0px;
+}
+div.trwow{
+     background-image:url(../pic/674887.jpg);
+     background-size: cover;
+     min-height:100%;
+	 position:relative;
+	 width:100%;
+	 height:60%;
+     text-align:center;	 
+}
+    div.indivtr{
+        max-width:45%;
+        text-align:center;
+        position:relative;
+        left:25%;
+        padding-top:9%;
+}
+p.trheader{
+        font-weight:800;
+        font-size:2.5em;
+        color: black;
+}
+p.trinfo{
+        font-weight:300;
+        font-size:1.5em;
+        color: black;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+.bts{
+height:80px;
+    width:200px;
+}
+
+
+div.nomb{
+        height:100%;
+        width:100%;
+        background-color: #FFD700;
+}
+div#tocards{
+        width:45%;
+        min-height:400px;
+        background-color:#FFD700;
+        text-align:center;
+}
+p#hdto{
+     font-weight:bold;
+     font-size:7em; 
+
+}
+p.totw{
+        font-weight:700;
+        font-size:1.8em;
+        position:relative;
+        top:-30px;
+}
+p.totext{
+        position:relative;
+        top:-30px;
+}
+div#frcont{
+        margin-left:30px;
+        width:90%;
+        display:flex;
+        justify-content:space-around;
+        margin-bottom:30px;
+        position: relative;
+        top:-150px;
+}
+.but{
+        color:black;
+        text-align: center;
+        width:100%;
+        height:100px;
+}
+p.butxt{
+        font-weight:500;
+        font-size:2.5em;
+}
+div#centertext{
+        float:left;
+        text-align: left;
+        max-height:30vh;
+        margin-right: 100px;
+}
+.btm{
+    height:60px;
+    width:120px;
+}
+div.centertextflex{
+     float:left;
+     text-align: left;
+     max-height:30vh;
+     margin-left: 100px;
+}
+div#torow{
+     width:100%;
+     margin-bottom:100px;
+     margin-top: 50px;
+}
+p.centerhead{
+     font-weight: bold;
+     font-size:2em;
+     margin-bottom: 10px;
+}
+div#roz{
+     margin-bottom: 300px;
+}
+p.centersimtext{
+     margin-bottom: 10px;
+}
+div#end{
+        text-align: center;
+        width:100%;
+        min-height: 90px;
+}
+.footer-clean {
+  padding:50px 0;
+  background-color:#fff;
+  color:#4b4c4d;
+  margin-bottom: 100px;
+}
